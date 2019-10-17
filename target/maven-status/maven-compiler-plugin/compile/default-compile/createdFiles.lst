@@ -1,0 +1,4 @@
+com\example\demo\AlertConsumerServiceApplication.class
+com\example\demo\listener\Consumer.class
+com\example\demo\jms\Config.class
+com\example\demo\pojo\MessagePogo.class
